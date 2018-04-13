@@ -1,0 +1,283 @@
+[
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523650821191,
+            "changeTime": 1523650821191,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523650821191,
+            "changeTime": 1523650821191,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1523651671840,
+            "changeTime": 1523651671840,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1523650821192,
+            "changeTime": 1523650821192,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1523650858068,
+            "changeTime": 1523650858068,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1523651671791,
+            "changeTime": 1523651671791,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1523651671798,
+            "changeTime": 1523651671798,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1523651671804,
+            "changeTime": 1523651671804,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1523651671808,
+            "changeTime": 1523651671808,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1523651671812,
+            "changeTime": 1523651671812,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4932,
+            "modifiedTime": 1523651671815,
+            "changeTime": 1523651671815,
+            "contentHash": "d7ff65dcb3dec78687d5631dd053c7c4ca251104"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17636,
+            "modifiedTime": 1523651671831,
+            "changeTime": 1523651671831,
+            "contentHash": "0c54835d29f525d17b858318dcf83e601a00ce0f"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4596,
+            "modifiedTime": 1523651671836,
+            "changeTime": 1523651671836,
+            "contentHash": "7c85f9442350b569799e282adf89f1badf052edc"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4592,
+            "modifiedTime": 1523651671839,
+            "changeTime": 1523651671839,
+            "contentHash": "99644587791080a44c9210de9fa1f6404f1c8884"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1523651671841,
+            "changeTime": 1523651671841,
+            "contentHash": "2331d6d0b39796ad37d829e0befd6583e7635469"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523651671791,
+            "changeTime": 1523651671791,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523651671790,
+            "changeTime": 1523651671790,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523651671790,
+            "changeTime": 1523651671790,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1523651671812,
+            "changeTime": 1523651671812,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1523651671839,
+            "changeTime": 1523651671839,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mjelaca/Documents/Milan/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523651671841,
+            "changeTime": 1523651671841,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
